@@ -1,0 +1,13 @@
+# Local Python environments
+.venv/
+.venv-*/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editable install metadata
+*.egg-info/
+
+# Notebook-generated outputs
+m02_tx_integrator/notebook_demo_output/
