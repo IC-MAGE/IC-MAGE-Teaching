@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(\"c:/Code/IC-MAGE-Teaching/run_test.ipynb\":*)",
-      "Bash(py -c \":*)"
+      "Bash(py -c \":*)",
+      "Skill(update-config)"
     ]
   }
 }
